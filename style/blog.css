@@ -1,0 +1,23 @@
+.header{
+    height: 500px;
+    /* background-image: url('../new.jpg'); */
+    background-image: url('../logo.jpg');
+    text-align: center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: top;
+    background-blend-mode: multiply;
+}
+
+h2{
+    color: magenta;
+}
+p{
+    color: royalblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.page-title{
+    color: blue;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
